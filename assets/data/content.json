@@ -20,9 +20,10 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/01-creation-world.jpg",
-        "assets/images/story-night-garden.png",
-        "assets/images/story-boat.svg"
+        "assets/images/pdf-stories-pages/01-creation-world/page-007.jpg",
+        "assets/images/pdf-stories-pages/01-creation-world/page-008.jpg",
+        "assets/images/pdf-stories-pages/01-creation-world/page-009.jpg",
+        "assets/images/pdf-stories-pages/01-creation-world/page-010.jpg"
       ],
       "audio_en": "assets/audio/creation-world_en.mp3",
       "audio_ar": "assets/audio/creation-world_ar.mp3"
@@ -47,9 +48,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/02-adam-eve-paradise.jpg",
-        "assets/images/story-boat.svg",
-        "assets/images/story-rainbow.svg"
+        "assets/images/pdf-stories-pages/02-adam-eve-paradise/page-011.jpg",
+        "assets/images/pdf-stories-pages/02-adam-eve-paradise/page-012.jpg",
+        "assets/images/pdf-stories-pages/02-adam-eve-paradise/page-013.jpg",
+        "assets/images/pdf-stories-pages/02-adam-eve-paradise/page-014.jpg",
+        "assets/images/pdf-stories-pages/02-adam-eve-paradise/page-015.jpg",
+        "assets/images/pdf-stories-pages/02-adam-eve-paradise/page-016.jpg"
       ],
       "audio_en": "assets/audio/adam-eve-paradise_en.mp3",
       "audio_ar": "assets/audio/adam-eve-paradise_ar.mp3"
@@ -74,9 +78,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/03-habil-qabil.jpg",
-        "assets/images/story-rainbow.svg",
-        "assets/images/story-courtyard.svg"
+        "assets/images/pdf-stories-pages/03-habil-qabil/page-017.jpg",
+        "assets/images/pdf-stories-pages/03-habil-qabil/page-018.jpg",
+        "assets/images/pdf-stories-pages/03-habil-qabil/page-019.jpg",
+        "assets/images/pdf-stories-pages/03-habil-qabil/page-020.jpg",
+        "assets/images/pdf-stories-pages/03-habil-qabil/page-021.jpg",
+        "assets/images/pdf-stories-pages/03-habil-qabil/page-022.jpg"
       ],
       "audio_en": "assets/audio/habil-qabil_en.mp3",
       "audio_ar": "assets/audio/habil-qabil_ar.mp3"
@@ -101,9 +108,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/04-nuh.jpg",
-        "assets/images/story-courtyard.svg",
-        "assets/images/garden.svg"
+        "assets/images/pdf-stories-pages/04-nuh/page-023.jpg",
+        "assets/images/pdf-stories-pages/04-nuh/page-024.jpg",
+        "assets/images/pdf-stories-pages/04-nuh/page-025.jpg",
+        "assets/images/pdf-stories-pages/04-nuh/page-026.jpg",
+        "assets/images/pdf-stories-pages/04-nuh/page-027.jpg",
+        "assets/images/pdf-stories-pages/04-nuh/page-028.jpg"
       ],
       "audio_en": "assets/audio/nuh_en.mp3",
       "audio_ar": "assets/audio/nuh_ar.mp3"
@@ -128,9 +138,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/05-ibrahim-journey.jpg",
-        "assets/images/garden.svg",
-        "assets/images/story-night-garden.png"
+        "assets/images/pdf-stories-pages/05-ibrahim-journey/page-029.jpg",
+        "assets/images/pdf-stories-pages/05-ibrahim-journey/page-030.jpg",
+        "assets/images/pdf-stories-pages/05-ibrahim-journey/page-031.jpg",
+        "assets/images/pdf-stories-pages/05-ibrahim-journey/page-032.jpg",
+        "assets/images/pdf-stories-pages/05-ibrahim-journey/page-033.jpg",
+        "assets/images/pdf-stories-pages/05-ibrahim-journey/page-034.jpg"
       ],
       "audio_en": "assets/audio/ibrahim-journey_en.mp3",
       "audio_ar": "assets/audio/ibrahim-journey_ar.mp3"
@@ -155,9 +168,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/06-ismail-zamzam.jpg",
-        "assets/images/story-night-garden.png",
-        "assets/images/story-boat.svg"
+        "assets/images/pdf-stories-pages/06-ismail-zamzam/page-035.jpg",
+        "assets/images/pdf-stories-pages/06-ismail-zamzam/page-036.jpg",
+        "assets/images/pdf-stories-pages/06-ismail-zamzam/page-037.jpg",
+        "assets/images/pdf-stories-pages/06-ismail-zamzam/page-038.jpg",
+        "assets/images/pdf-stories-pages/06-ismail-zamzam/page-039.jpg",
+        "assets/images/pdf-stories-pages/06-ismail-zamzam/page-040.jpg"
       ],
       "audio_en": "assets/audio/ismail-zamzam_en.mp3",
       "audio_ar": "assets/audio/ismail-zamzam_ar.mp3"
@@ -182,9 +198,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/07-yusuf-trials.jpg",
-        "assets/images/story-boat.svg",
-        "assets/images/story-rainbow.svg"
+        "assets/images/pdf-stories-pages/07-yusuf-trials/page-041.jpg",
+        "assets/images/pdf-stories-pages/07-yusuf-trials/page-042.jpg",
+        "assets/images/pdf-stories-pages/07-yusuf-trials/page-043.jpg",
+        "assets/images/pdf-stories-pages/07-yusuf-trials/page-044.jpg",
+        "assets/images/pdf-stories-pages/07-yusuf-trials/page-045.jpg"
       ],
       "audio_en": "assets/audio/yusuf-trials_en.mp3",
       "audio_ar": "assets/audio/yusuf-trials_ar.mp3"
@@ -209,9 +227,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/08-ayub-patience.jpg",
-        "assets/images/story-rainbow.svg",
-        "assets/images/story-courtyard.svg"
+        "assets/images/pdf-stories-pages/08-ayub-patience/page-046.jpg",
+        "assets/images/pdf-stories-pages/08-ayub-patience/page-047.jpg",
+        "assets/images/pdf-stories-pages/08-ayub-patience/page-048.jpg",
+        "assets/images/pdf-stories-pages/08-ayub-patience/page-049.jpg",
+        "assets/images/pdf-stories-pages/08-ayub-patience/page-050.jpg"
       ],
       "audio_en": "assets/audio/ayub-patience_en.mp3",
       "audio_ar": "assets/audio/ayub-patience_ar.mp3"
@@ -236,9 +256,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/09-suleiman-wisdom.jpg",
-        "assets/images/story-courtyard.svg",
-        "assets/images/garden.svg"
+        "assets/images/pdf-stories-pages/09-suleiman-wisdom/page-051.jpg",
+        "assets/images/pdf-stories-pages/09-suleiman-wisdom/page-052.jpg",
+        "assets/images/pdf-stories-pages/09-suleiman-wisdom/page-053.jpg",
+        "assets/images/pdf-stories-pages/09-suleiman-wisdom/page-054.jpg",
+        "assets/images/pdf-stories-pages/09-suleiman-wisdom/page-055.jpg"
       ],
       "audio_en": "assets/audio/suleiman-wisdom_en.mp3",
       "audio_ar": "assets/audio/suleiman-wisdom_ar.mp3"
@@ -263,9 +285,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/10-musa-courage.jpg",
-        "assets/images/garden.svg",
-        "assets/images/story-night-garden.png"
+        "assets/images/pdf-stories-pages/10-musa-courage/page-056.jpg",
+        "assets/images/pdf-stories-pages/10-musa-courage/page-057.jpg",
+        "assets/images/pdf-stories-pages/10-musa-courage/page-058.jpg",
+        "assets/images/pdf-stories-pages/10-musa-courage/page-059.jpg",
+        "assets/images/pdf-stories-pages/10-musa-courage/page-060.jpg",
+        "assets/images/pdf-stories-pages/10-musa-courage/page-061.jpg"
       ],
       "audio_en": "assets/audio/musa-courage_en.mp3",
       "audio_ar": "assets/audio/musa-courage_ar.mp3"
@@ -290,9 +315,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/11-harun-support.jpg",
-        "assets/images/story-night-garden.png",
-        "assets/images/story-boat.svg"
+        "assets/images/pdf-stories-pages/11-harun-support/page-062.jpg",
+        "assets/images/pdf-stories-pages/11-harun-support/page-063.jpg",
+        "assets/images/pdf-stories-pages/11-harun-support/page-064.jpg",
+        "assets/images/pdf-stories-pages/11-harun-support/page-065.jpg",
+        "assets/images/pdf-stories-pages/11-harun-support/page-066.jpg",
+        "assets/images/pdf-stories-pages/11-harun-support/page-067.jpg"
       ],
       "audio_en": "assets/audio/harun-support_en.mp3",
       "audio_ar": "assets/audio/harun-support_ar.mp3"
@@ -317,9 +345,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/12-cow-baqara.jpg",
-        "assets/images/story-boat.svg",
-        "assets/images/story-rainbow.svg"
+        "assets/images/pdf-stories-pages/12-cow-baqara/page-068.jpg",
+        "assets/images/pdf-stories-pages/12-cow-baqara/page-069.jpg",
+        "assets/images/pdf-stories-pages/12-cow-baqara/page-070.jpg",
+        "assets/images/pdf-stories-pages/12-cow-baqara/page-071.jpg",
+        "assets/images/pdf-stories-pages/12-cow-baqara/page-072.jpg",
+        "assets/images/pdf-stories-pages/12-cow-baqara/page-073.jpg"
       ],
       "audio_en": "assets/audio/cow-baqara_en.mp3",
       "audio_ar": "assets/audio/cow-baqara_ar.mp3"
@@ -344,9 +375,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/13-yunus-fish.jpg",
-        "assets/images/story-rainbow.svg",
-        "assets/images/story-courtyard.svg"
+        "assets/images/pdf-stories-pages/13-yunus-fish/page-074.jpg",
+        "assets/images/pdf-stories-pages/13-yunus-fish/page-075.jpg",
+        "assets/images/pdf-stories-pages/13-yunus-fish/page-076.jpg",
+        "assets/images/pdf-stories-pages/13-yunus-fish/page-077.jpg",
+        "assets/images/pdf-stories-pages/13-yunus-fish/page-078.jpg",
+        "assets/images/pdf-stories-pages/13-yunus-fish/page-079.jpg"
       ],
       "audio_en": "assets/audio/yunus-fish_en.mp3",
       "audio_ar": "assets/audio/yunus-fish_ar.mp3"
@@ -371,9 +405,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/14-isa-birth.jpg",
-        "assets/images/story-courtyard.svg",
-        "assets/images/garden.svg"
+        "assets/images/pdf-stories-pages/14-isa-birth/page-080.jpg",
+        "assets/images/pdf-stories-pages/14-isa-birth/page-081.jpg",
+        "assets/images/pdf-stories-pages/14-isa-birth/page-082.jpg",
+        "assets/images/pdf-stories-pages/14-isa-birth/page-083.jpg",
+        "assets/images/pdf-stories-pages/14-isa-birth/page-084.jpg",
+        "assets/images/pdf-stories-pages/14-isa-birth/page-085.jpg"
       ],
       "audio_en": "assets/audio/isa-birth_en.mp3",
       "audio_ar": "assets/audio/isa-birth_ar.mp3"
@@ -398,9 +435,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/15-people-cave.jpg",
-        "assets/images/garden.svg",
-        "assets/images/story-night-garden.png"
+        "assets/images/pdf-stories-pages/15-people-cave/page-086.jpg",
+        "assets/images/pdf-stories-pages/15-people-cave/page-087.jpg",
+        "assets/images/pdf-stories-pages/15-people-cave/page-088.jpg",
+        "assets/images/pdf-stories-pages/15-people-cave/page-089.jpg",
+        "assets/images/pdf-stories-pages/15-people-cave/page-090.jpg"
       ],
       "audio_en": "assets/audio/people-cave_en.mp3",
       "audio_ar": "assets/audio/people-cave_ar.mp3"
@@ -425,9 +464,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/16-luqman-wisdom.jpg",
-        "assets/images/story-night-garden.png",
-        "assets/images/story-boat.svg"
+        "assets/images/pdf-stories-pages/16-luqman-wisdom/page-091.jpg",
+        "assets/images/pdf-stories-pages/16-luqman-wisdom/page-092.jpg",
+        "assets/images/pdf-stories-pages/16-luqman-wisdom/page-093.jpg",
+        "assets/images/pdf-stories-pages/16-luqman-wisdom/page-094.jpg",
+        "assets/images/pdf-stories-pages/16-luqman-wisdom/page-095.jpg",
+        "assets/images/pdf-stories-pages/16-luqman-wisdom/page-096.jpg"
       ],
       "audio_en": "assets/audio/luqman-wisdom_en.mp3",
       "audio_ar": "assets/audio/luqman-wisdom_ar.mp3"
@@ -452,9 +494,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/17-talut-jalut.jpg",
-        "assets/images/story-boat.svg",
-        "assets/images/story-rainbow.svg"
+        "assets/images/pdf-stories-pages/17-talut-jalut/page-097.jpg",
+        "assets/images/pdf-stories-pages/17-talut-jalut/page-098.jpg",
+        "assets/images/pdf-stories-pages/17-talut-jalut/page-099.jpg",
+        "assets/images/pdf-stories-pages/17-talut-jalut/page-100.jpg",
+        "assets/images/pdf-stories-pages/17-talut-jalut/page-101.jpg"
       ],
       "audio_en": "assets/audio/talut-jalut_en.mp3",
       "audio_ar": "assets/audio/talut-jalut_ar.mp3"
@@ -479,9 +523,12 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/18-shuayb-fair-trading.jpg",
-        "assets/images/story-rainbow.svg",
-        "assets/images/story-courtyard.svg"
+        "assets/images/pdf-stories-pages/18-shuayb-fair-trading/page-102.jpg",
+        "assets/images/pdf-stories-pages/18-shuayb-fair-trading/page-103.jpg",
+        "assets/images/pdf-stories-pages/18-shuayb-fair-trading/page-104.jpg",
+        "assets/images/pdf-stories-pages/18-shuayb-fair-trading/page-105.jpg",
+        "assets/images/pdf-stories-pages/18-shuayb-fair-trading/page-106.jpg",
+        "assets/images/pdf-stories-pages/18-shuayb-fair-trading/page-107.jpg"
       ],
       "audio_en": "assets/audio/shuayb-fair-trading_en.mp3",
       "audio_ar": "assets/audio/shuayb-fair-trading_ar.mp3"
@@ -506,9 +553,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/19-saleh-camel.jpg",
-        "assets/images/story-courtyard.svg",
-        "assets/images/garden.svg"
+        "assets/images/pdf-stories-pages/19-saleh-camel/page-108.jpg",
+        "assets/images/pdf-stories-pages/19-saleh-camel/page-109.jpg",
+        "assets/images/pdf-stories-pages/19-saleh-camel/page-110.jpg",
+        "assets/images/pdf-stories-pages/19-saleh-camel/page-111.jpg",
+        "assets/images/pdf-stories-pages/19-saleh-camel/page-112.jpg"
       ],
       "audio_en": "assets/audio/saleh-camel_en.mp3",
       "audio_ar": "assets/audio/saleh-camel_ar.mp3"
@@ -533,9 +582,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/20-hud-ad.jpg",
-        "assets/images/garden.svg",
-        "assets/images/story-night-garden.png"
+        "assets/images/pdf-stories-pages/20-hud-ad/page-113.jpg",
+        "assets/images/pdf-stories-pages/20-hud-ad/page-114.jpg",
+        "assets/images/pdf-stories-pages/20-hud-ad/page-115.jpg",
+        "assets/images/pdf-stories-pages/20-hud-ad/page-116.jpg",
+        "assets/images/pdf-stories-pages/20-hud-ad/page-117.jpg"
       ],
       "audio_en": "assets/audio/hud-ad_en.mp3",
       "audio_ar": "assets/audio/hud-ad_ar.mp3"
@@ -560,9 +611,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/21-ibrahim-fire.jpg",
-        "assets/images/story-night-garden.png",
-        "assets/images/story-boat.svg"
+        "assets/images/pdf-stories-pages/21-ibrahim-fire/page-118.jpg",
+        "assets/images/pdf-stories-pages/21-ibrahim-fire/page-119.jpg",
+        "assets/images/pdf-stories-pages/21-ibrahim-fire/page-120.jpg",
+        "assets/images/pdf-stories-pages/21-ibrahim-fire/page-121.jpg",
+        "assets/images/pdf-stories-pages/21-ibrahim-fire/page-122.jpg"
       ],
       "audio_en": "assets/audio/ibrahim-fire_en.mp3",
       "audio_ar": "assets/audio/ibrahim-fire_ar.mp3"
@@ -587,9 +640,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/22-isra-miraj.jpg",
-        "assets/images/story-boat.svg",
-        "assets/images/story-rainbow.svg"
+        "assets/images/pdf-stories-pages/22-isra-miraj/page-123.jpg",
+        "assets/images/pdf-stories-pages/22-isra-miraj/page-124.jpg",
+        "assets/images/pdf-stories-pages/22-isra-miraj/page-125.jpg",
+        "assets/images/pdf-stories-pages/22-isra-miraj/page-126.jpg",
+        "assets/images/pdf-stories-pages/22-isra-miraj/page-127.jpg"
       ],
       "audio_en": "assets/audio/isra-miraj_en.mp3",
       "audio_ar": "assets/audio/isra-miraj_ar.mp3"
@@ -614,9 +669,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/23-muhammad-childhood.jpg",
-        "assets/images/story-rainbow.svg",
-        "assets/images/story-courtyard.svg"
+        "assets/images/pdf-stories-pages/23-muhammad-childhood/page-128.jpg",
+        "assets/images/pdf-stories-pages/23-muhammad-childhood/page-129.jpg",
+        "assets/images/pdf-stories-pages/23-muhammad-childhood/page-130.jpg",
+        "assets/images/pdf-stories-pages/23-muhammad-childhood/page-131.jpg",
+        "assets/images/pdf-stories-pages/23-muhammad-childhood/page-132.jpg"
       ],
       "audio_en": "assets/audio/muhammad-childhood_en.mp3",
       "audio_ar": "assets/audio/muhammad-childhood_ar.mp3"
@@ -641,9 +698,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/24-abyssinia-migration.jpg",
-        "assets/images/story-courtyard.svg",
-        "assets/images/garden.svg"
+        "assets/images/pdf-stories-pages/24-abyssinia-migration/page-133.jpg",
+        "assets/images/pdf-stories-pages/24-abyssinia-migration/page-134.jpg",
+        "assets/images/pdf-stories-pages/24-abyssinia-migration/page-135.jpg",
+        "assets/images/pdf-stories-pages/24-abyssinia-migration/page-136.jpg",
+        "assets/images/pdf-stories-pages/24-abyssinia-migration/page-137.jpg"
       ],
       "audio_en": "assets/audio/abyssinia-migration_en.mp3",
       "audio_ar": "assets/audio/abyssinia-migration_ar.mp3"
@@ -668,9 +727,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/25-badr.jpg",
-        "assets/images/garden.svg",
-        "assets/images/story-night-garden.png"
+        "assets/images/pdf-stories-pages/25-badr/page-138.jpg",
+        "assets/images/pdf-stories-pages/25-badr/page-139.jpg",
+        "assets/images/pdf-stories-pages/25-badr/page-140.jpg",
+        "assets/images/pdf-stories-pages/25-badr/page-141.jpg",
+        "assets/images/pdf-stories-pages/25-badr/page-142.jpg"
       ],
       "audio_en": "assets/audio/badr_en.mp3",
       "audio_ar": "assets/audio/badr_ar.mp3"
@@ -695,9 +756,10 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/26-elephant.jpg",
-        "assets/images/story-night-garden.png",
-        "assets/images/story-boat.svg"
+        "assets/images/pdf-stories-pages/26-elephant/page-143.jpg",
+        "assets/images/pdf-stories-pages/26-elephant/page-144.jpg",
+        "assets/images/pdf-stories-pages/26-elephant/page-145.jpg",
+        "assets/images/pdf-stories-pages/26-elephant/page-146.jpg"
       ],
       "audio_en": "assets/audio/elephant_en.mp3",
       "audio_ar": "assets/audio/elephant_ar.mp3"
@@ -722,9 +784,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/27-muhammad-generosity.jpg",
-        "assets/images/story-boat.svg",
-        "assets/images/story-rainbow.svg"
+        "assets/images/pdf-stories-pages/27-muhammad-generosity/page-147.jpg",
+        "assets/images/pdf-stories-pages/27-muhammad-generosity/page-148.jpg",
+        "assets/images/pdf-stories-pages/27-muhammad-generosity/page-149.jpg",
+        "assets/images/pdf-stories-pages/27-muhammad-generosity/page-150.jpg",
+        "assets/images/pdf-stories-pages/27-muhammad-generosity/page-151.jpg"
       ],
       "audio_en": "assets/audio/muhammad-generosity_en.mp3",
       "audio_ar": "assets/audio/muhammad-generosity_ar.mp3"
@@ -749,9 +813,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/28-muhammad-mercy.jpg",
-        "assets/images/story-rainbow.svg",
-        "assets/images/story-courtyard.svg"
+        "assets/images/pdf-stories-pages/28-muhammad-mercy/page-152.jpg",
+        "assets/images/pdf-stories-pages/28-muhammad-mercy/page-153.jpg",
+        "assets/images/pdf-stories-pages/28-muhammad-mercy/page-154.jpg",
+        "assets/images/pdf-stories-pages/28-muhammad-mercy/page-155.jpg",
+        "assets/images/pdf-stories-pages/28-muhammad-mercy/page-156.jpg"
       ],
       "audio_en": "assets/audio/muhammad-mercy_en.mp3",
       "audio_ar": "assets/audio/muhammad-mercy_ar.mp3"
@@ -776,9 +842,10 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/29-spiders-web.jpg",
-        "assets/images/story-courtyard.svg",
-        "assets/images/garden.svg"
+        "assets/images/pdf-stories-pages/29-spiders-web/page-157.jpg",
+        "assets/images/pdf-stories-pages/29-spiders-web/page-158.jpg",
+        "assets/images/pdf-stories-pages/29-spiders-web/page-159.jpg",
+        "assets/images/pdf-stories-pages/29-spiders-web/page-160.jpg"
       ],
       "audio_en": "assets/audio/spiders-web_en.mp3",
       "audio_ar": "assets/audio/spiders-web_ar.mp3"
@@ -803,9 +870,11 @@
       "video_path": "",
       "video_url": "",
       "images": [
-        "assets/images/pdf-stories/30-final-sermon.jpg",
-        "assets/images/garden.svg",
-        "assets/images/story-night-garden.png"
+        "assets/images/pdf-stories-pages/30-final-sermon/page-161.jpg",
+        "assets/images/pdf-stories-pages/30-final-sermon/page-162.jpg",
+        "assets/images/pdf-stories-pages/30-final-sermon/page-163.jpg",
+        "assets/images/pdf-stories-pages/30-final-sermon/page-164.jpg",
+        "assets/images/pdf-stories-pages/30-final-sermon/page-165.jpg"
       ],
       "audio_en": "assets/audio/final-sermon_en.mp3",
       "audio_ar": "assets/audio/final-sermon_ar.mp3"
