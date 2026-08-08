@@ -1,0 +1,14 @@
+{
+  "projectId": "your-firebase-project-id",
+  "database": "(default)",
+  "collections": {
+    "stories": "stories",
+    "duas": "duas",
+    "prayers": "prayers",
+    "pillars": "pillars",
+    "manners": "manners",
+    "facts": "facts",
+    "calendarTargets": "calendar_targets"
+  },
+  "notes": "Use public Firestore REST only with properly configured read rules for public learning content. Do not put service account keys in browser code."
+}

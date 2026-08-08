@@ -1,0 +1,1002 @@
+{
+  "stories": [
+    {
+      "id": "creation-world",
+      "title_en": "The Creation of the World",
+      "title_ar": "خلق العالم",
+      "subtitle_en": "The Beginning of Everything",
+      "subtitle_ar": "بداية كل شيء",
+      "summary_en": "Allah created the heavens, earth, light, sky, stars, plants, animals, and the first humans with wisdom and mercy.",
+      "summary_ar": "خلق الله السماوات والأرض والنور والسماء والنجوم والنباتات والحيوانات وأول البشر بحكمة ورحمة.",
+      "moral_en": "Look at the world with gratitude and remember that every blessing comes from Allah.",
+      "moral_ar": "انظر إلى العالم بشكر وتذكر أن كل نعمة من الله.",
+      "quiz_tf_en": "Allah created Adam and Hawwa as the first humans.",
+      "quiz_tf_ar": "خلق الله آدم وحواء كأول البشر.",
+      "quiz_short_en": "Name two beautiful things Allah created in the world.",
+      "quiz_short_ar": "اذكر شيئين جميلين خلقهما الله في العالم.",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 7,
+      "source_page_end": 10,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/01-creation-world.jpg",
+        "assets/images/story-night-garden.png",
+        "assets/images/story-boat.svg"
+      ],
+      "audio_en": "assets/audio/creation-world_en.mp3",
+      "audio_ar": "assets/audio/creation-world_ar.mp3"
+    },
+    {
+      "id": "adam-eve-paradise",
+      "title_en": "Adam and Eve in Paradise",
+      "title_ar": "آدم وحواء في الجنة",
+      "subtitle_en": "The First Humans",
+      "subtitle_ar": "أول البشر",
+      "summary_en": "Adam and Hawwa lived in Paradise, made a mistake, asked Allah for forgiveness, and learned to follow His guidance on earth.",
+      "summary_ar": "عاش آدم وحواء في الجنة، ثم أخطآ وطلبا المغفرة من الله وتعلما اتباع هدايته في الأرض.",
+      "moral_en": "When we make a mistake, we should say sorry, ask Allah for forgiveness, and try again.",
+      "moral_ar": "عندما نخطئ نقول آسف، ونطلب المغفرة من الله، ونحاول من جديد.",
+      "quiz_tf_en": "Shaytan tricked Adam and Hawwa into eating from the forbidden tree.",
+      "quiz_tf_ar": "خدع الشيطان آدم وحواء ليأكلا من الشجرة الممنوعة.",
+      "quiz_short_en": "What should we do after making a mistake?",
+      "quiz_short_ar": "ماذا نفعل بعد أن نخطئ؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 11,
+      "source_page_end": 16,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/02-adam-eve-paradise.jpg",
+        "assets/images/story-boat.svg",
+        "assets/images/story-rainbow.svg"
+      ],
+      "audio_en": "assets/audio/adam-eve-paradise_en.mp3",
+      "audio_ar": "assets/audio/adam-eve-paradise_ar.mp3"
+    },
+    {
+      "id": "habil-qabil",
+      "title_en": "The Story of Habil and Qabil",
+      "title_ar": "قصة هابيل وقابيل",
+      "subtitle_en": "Lessons from the First Siblings",
+      "subtitle_ar": "دروس من أول أخوين",
+      "summary_en": "Two brothers made offerings to Allah, but jealousy led Qabil to hurt Habil and learn a painful lesson.",
+      "summary_ar": "قدم أخوان قرباناً لله، لكن الغيرة جعلت قابيل يؤذي هابيل ويتعلم درساً مؤلماً.",
+      "moral_en": "Keep your heart clean from jealousy and ask Allah to help you choose what is right.",
+      "moral_ar": "نق قلبك من الغيرة واسأل الله أن يعينك على اختيار الصواب.",
+      "quiz_tf_en": "Qabil became jealous when Allah accepted Habil’s offering.",
+      "quiz_tf_ar": "غار قابيل عندما قبل الله قربان هابيل.",
+      "quiz_short_en": "What feeling should we avoid when someone else succeeds?",
+      "quiz_short_ar": "ما الشعور الذي يجب أن نتجنبه عندما ينجح غيرنا؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 17,
+      "source_page_end": 22,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/03-habil-qabil.jpg",
+        "assets/images/story-rainbow.svg",
+        "assets/images/story-courtyard.svg"
+      ],
+      "audio_en": "assets/audio/habil-qabil_en.mp3",
+      "audio_ar": "assets/audio/habil-qabil_ar.mp3"
+    },
+    {
+      "id": "nuh",
+      "title_en": "The Patience of Prophet Nuh",
+      "title_ar": "صبر النبي نوح",
+      "subtitle_en": "The Great Flood",
+      "subtitle_ar": "الطوفان العظيم",
+      "summary_en": "Prophet Nuh patiently called his people to Allah and built the ark by Allah’s command before the great flood.",
+      "summary_ar": "دعا النبي نوح قومه إلى الله بصبر وبنى السفينة بأمر الله قبل الطوفان العظيم.",
+      "moral_en": "Be patient and trust Allah, even when others do not understand yet.",
+      "moral_ar": "كن صبوراً وتوكل على الله حتى لو لم يفهم الآخرون بعد.",
+      "quiz_tf_en": "Prophet Nuh built an ark by Allah’s command.",
+      "quiz_tf_ar": "بنى النبي نوح السفينة بأمر الله.",
+      "quiz_short_en": "Why did Prophet Nuh build the ark?",
+      "quiz_short_ar": "لماذا بنى النبي نوح السفينة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 23,
+      "source_page_end": 28,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/04-nuh.jpg",
+        "assets/images/story-courtyard.svg",
+        "assets/images/garden.svg"
+      ],
+      "audio_en": "assets/audio/nuh_en.mp3",
+      "audio_ar": "assets/audio/nuh_ar.mp3"
+    },
+    {
+      "id": "ibrahim-journey",
+      "title_en": "The Journey of Prophet Ibrahim",
+      "title_ar": "رحلة النبي إبراهيم",
+      "subtitle_en": "A Tale of Faith and Sacrifice",
+      "subtitle_ar": "قصة إيمان وتضحية",
+      "summary_en": "Prophet Ibrahim rejected idol worship, trusted Allah through hard tests, and showed deep obedience.",
+      "summary_ar": "رفض النبي إبراهيم عبادة الأصنام، وتوكل على الله في الاختبارات الصعبة، وأظهر طاعة عظيمة.",
+      "moral_en": "Strong faith means obeying Allah and trusting Him during tests.",
+      "moral_ar": "الإيمان القوي يعني طاعة الله والتوكل عليه وقت الاختبار.",
+      "quiz_tf_en": "Prophet Ibrahim trusted Allah during difficult tests.",
+      "quiz_tf_ar": "توكل النبي إبراهيم على الله في الاختبارات الصعبة.",
+      "quiz_short_en": "What did Prophet Ibrahim teach his people about idols?",
+      "quiz_short_ar": "ماذا علّم النبي إبراهيم قومه عن الأصنام؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 29,
+      "source_page_end": 34,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/05-ibrahim-journey.jpg",
+        "assets/images/garden.svg",
+        "assets/images/story-night-garden.png"
+      ],
+      "audio_en": "assets/audio/ibrahim-journey_en.mp3",
+      "audio_ar": "assets/audio/ibrahim-journey_ar.mp3"
+    },
+    {
+      "id": "ismail-zamzam",
+      "title_en": "The Miracle of Prophet Ismail",
+      "title_ar": "معجزة النبي إسماعيل",
+      "subtitle_en": "The Well of Zamzam",
+      "subtitle_ar": "بئر زمزم",
+      "summary_en": "Allah provided Zamzam water for Hajar and baby Ismail, then tested Ibrahim and Ismail’s obedience.",
+      "summary_ar": "رزق الله هاجر وطفلها إسماعيل ماء زمزم، ثم اختبر طاعة إبراهيم وإسماعيل.",
+      "moral_en": "Allah provides help in ways we may not expect when we trust Him.",
+      "moral_ar": "يرزقنا الله العون بطرق لا نتوقعها عندما نثق به.",
+      "quiz_tf_en": "The spring of water was called Zamzam.",
+      "quiz_tf_ar": "كان نبع الماء يسمى زمزم.",
+      "quiz_short_en": "Who searched for water for baby Ismail?",
+      "quiz_short_ar": "من بحثت عن الماء للطفل إسماعيل؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 35,
+      "source_page_end": 40,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/06-ismail-zamzam.jpg",
+        "assets/images/story-night-garden.png",
+        "assets/images/story-boat.svg"
+      ],
+      "audio_en": "assets/audio/ismail-zamzam_en.mp3",
+      "audio_ar": "assets/audio/ismail-zamzam_ar.mp3"
+    },
+    {
+      "id": "yusuf-trials",
+      "title_en": "The Trials of Prophet Yusuf",
+      "title_ar": "ابتلاءات النبي يوسف",
+      "subtitle_en": "From the Well to the Throne",
+      "subtitle_ar": "من البئر إلى المنصب",
+      "summary_en": "Prophet Yusuf faced jealousy, separation, and prison, yet trusted Allah and later helped many people.",
+      "summary_ar": "واجه النبي يوسف الغيرة والفراق والسجن، لكنه توكل على الله ثم ساعد كثيراً من الناس.",
+      "moral_en": "Trust Allah’s plan and choose forgiveness when you are able.",
+      "moral_ar": "ثق بخطة الله واختر العفو عندما تستطيع.",
+      "quiz_tf_en": "Prophet Yusuf forgave his brothers when they came to Egypt.",
+      "quiz_tf_ar": "سامح النبي يوسف إخوته عندما جاؤوا إلى مصر.",
+      "quiz_short_en": "What good character did Prophet Yusuf show?",
+      "quiz_short_ar": "ما الخلق الحسن الذي أظهره النبي يوسف؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 41,
+      "source_page_end": 45,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/07-yusuf-trials.jpg",
+        "assets/images/story-boat.svg",
+        "assets/images/story-rainbow.svg"
+      ],
+      "audio_en": "assets/audio/yusuf-trials_en.mp3",
+      "audio_ar": "assets/audio/yusuf-trials_ar.mp3"
+    },
+    {
+      "id": "ayub-patience",
+      "title_en": "The Perseverance of Prophet Ayub",
+      "title_ar": "ثبات النبي أيوب",
+      "subtitle_en": "Lessons in Patience",
+      "subtitle_ar": "دروس في الصبر",
+      "summary_en": "Prophet Ayub stayed patient and grateful through illness and hardship until Allah restored his blessings.",
+      "summary_ar": "ظل النبي أيوب صابراً وشاكراً في المرض والشدائد حتى رد الله عليه نعمه.",
+      "moral_en": "Patience and prayer help us through hard days.",
+      "moral_ar": "الصبر والدعاء يعيناننا في الأيام الصعبة.",
+      "quiz_tf_en": "Prophet Ayub stayed faithful during hardship.",
+      "quiz_tf_ar": "بقي النبي أيوب مؤمناً في الشدة.",
+      "quiz_short_en": "What helped Prophet Ayub during hardship?",
+      "quiz_short_ar": "ما الذي أعان النبي أيوب في الشدة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 46,
+      "source_page_end": 50,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/08-ayub-patience.jpg",
+        "assets/images/story-rainbow.svg",
+        "assets/images/story-courtyard.svg"
+      ],
+      "audio_en": "assets/audio/ayub-patience_en.mp3",
+      "audio_ar": "assets/audio/ayub-patience_ar.mp3"
+    },
+    {
+      "id": "suleiman-wisdom",
+      "title_en": "The Wisdom of Prophet Suleiman",
+      "title_ar": "حكمة النبي سليمان",
+      "subtitle_en": "The King of All Creatures",
+      "subtitle_ar": "ملك المخلوقات",
+      "summary_en": "Allah gave Prophet Suleiman wisdom, power, and the ability to understand creatures so he could rule justly.",
+      "summary_ar": "أعطى الله النبي سليمان حكمة وملكاً وفهماً للمخلوقات ليحكم بالعدل.",
+      "moral_en": "Use wisdom and fairness to help others.",
+      "moral_ar": "استخدم الحكمة والعدل لمساعدة الآخرين.",
+      "quiz_tf_en": "Prophet Suleiman was known for wisdom and fair judgment.",
+      "quiz_tf_ar": "عرف النبي سليمان بالحكمة والحكم العادل.",
+      "quiz_short_en": "What should we use wisdom for?",
+      "quiz_short_ar": "فيم نستخدم الحكمة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 51,
+      "source_page_end": 55,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/09-suleiman-wisdom.jpg",
+        "assets/images/story-courtyard.svg",
+        "assets/images/garden.svg"
+      ],
+      "audio_en": "assets/audio/suleiman-wisdom_en.mp3",
+      "audio_ar": "assets/audio/suleiman-wisdom_ar.mp3"
+    },
+    {
+      "id": "musa-courage",
+      "title_en": "The Courage of Prophet Musa",
+      "title_ar": "شجاعة النبي موسى",
+      "subtitle_en": "The Exodus from Egypt",
+      "subtitle_ar": "الخروج من مصر",
+      "summary_en": "Prophet Musa trusted Allah, stood against Pharaoh, and led his people across the sea by Allah’s help.",
+      "summary_ar": "توكل النبي موسى على الله ووقف أمام فرعون وقاد قومه عبر البحر بعون الله.",
+      "moral_en": "Stand for what is right and trust Allah when you feel afraid.",
+      "moral_ar": "قف مع الحق وتوكل على الله عندما تشعر بالخوف.",
+      "quiz_tf_en": "Allah helped Prophet Musa and his people cross the sea.",
+      "quiz_tf_ar": "أعان الله النبي موسى وقومه على عبور البحر.",
+      "quiz_short_en": "Who did Prophet Musa stand up to?",
+      "quiz_short_ar": "أمام من وقف النبي موسى؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 56,
+      "source_page_end": 61,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/10-musa-courage.jpg",
+        "assets/images/garden.svg",
+        "assets/images/story-night-garden.png"
+      ],
+      "audio_en": "assets/audio/musa-courage_en.mp3",
+      "audio_ar": "assets/audio/musa-courage_ar.mp3"
+    },
+    {
+      "id": "harun-support",
+      "title_en": "The Story of Prophet Harun",
+      "title_ar": "قصة النبي هارون",
+      "subtitle_en": "Supporting His Brother Musa",
+      "subtitle_ar": "مساندة أخيه موسى",
+      "summary_en": "Prophet Harun supported Prophet Musa and tried to guide the people when they were tested.",
+      "summary_ar": "ساند النبي هارون النبي موسى وحاول إرشاد القوم عندما تعرضوا للاختبار.",
+      "moral_en": "Good family and friends support each other in doing what is right.",
+      "moral_ar": "الأهل والأصدقاء الصالحون يعين بعضهم بعضاً على فعل الخير.",
+      "quiz_tf_en": "Prophet Harun helped Prophet Musa teach the people.",
+      "quiz_tf_ar": "ساعد النبي هارون النبي موسى في تعليم الناس.",
+      "quiz_short_en": "How can you support someone who is doing good?",
+      "quiz_short_ar": "كيف تساعد شخصاً يفعل الخير؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 62,
+      "source_page_end": 67,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/11-harun-support.jpg",
+        "assets/images/story-night-garden.png",
+        "assets/images/story-boat.svg"
+      ],
+      "audio_en": "assets/audio/harun-support_en.mp3",
+      "audio_ar": "assets/audio/harun-support_ar.mp3"
+    },
+    {
+      "id": "cow-baqara",
+      "title_en": "The Tale of the Cow",
+      "title_ar": "قصة البقرة",
+      "subtitle_en": "Lessons from Surah Al-Baqarah",
+      "subtitle_ar": "دروس من سورة البقرة",
+      "summary_en": "Allah commanded a people to sacrifice a cow, teaching them obedience and trust instead of delay and doubt.",
+      "summary_ar": "أمر الله قوماً بذبح بقرة، فتعلموا الطاعة والثقة بدلاً من التأخير والشك.",
+      "moral_en": "Follow Allah’s guidance with a sincere heart.",
+      "moral_ar": "اتبع هداية الله بقلب صادق.",
+      "quiz_tf_en": "The people made the task harder by asking too many delaying questions.",
+      "quiz_tf_ar": "جعل القوم الأمر أصعب بكثرة الأسئلة التي أخرت الطاعة.",
+      "quiz_short_en": "Why is quick obedience important?",
+      "quiz_short_ar": "لماذا الطاعة السريعة مهمة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 68,
+      "source_page_end": 73,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/12-cow-baqara.jpg",
+        "assets/images/story-boat.svg",
+        "assets/images/story-rainbow.svg"
+      ],
+      "audio_en": "assets/audio/cow-baqara_en.mp3",
+      "audio_ar": "assets/audio/cow-baqara_ar.mp3"
+    },
+    {
+      "id": "yunus-fish",
+      "title_en": "The Adventure of Prophet Yunus",
+      "title_ar": "مغامرة النبي يونس",
+      "subtitle_en": "In the Belly of the Whale",
+      "subtitle_ar": "في بطن الحوت",
+      "summary_en": "Prophet Yunus left before Allah permitted him, prayed inside the great fish, and was saved by Allah’s mercy.",
+      "summary_ar": "خرج النبي يونس قبل إذن الله، ودعا في بطن الحوت، فنجاه الله برحمته.",
+      "moral_en": "Turn back to Allah with sincere repentance whenever you make a mistake.",
+      "moral_ar": "ارجع إلى الله بتوبة صادقة كلما أخطأت.",
+      "quiz_tf_en": "Prophet Yunus prayed to Allah inside the great fish.",
+      "quiz_tf_ar": "دعا النبي يونس الله داخل الحوت العظيم.",
+      "quiz_short_en": "What did Prophet Yunus do inside the fish?",
+      "quiz_short_ar": "ماذا فعل النبي يونس داخل الحوت؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 74,
+      "source_page_end": 79,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/13-yunus-fish.jpg",
+        "assets/images/story-rainbow.svg",
+        "assets/images/story-courtyard.svg"
+      ],
+      "audio_en": "assets/audio/yunus-fish_en.mp3",
+      "audio_ar": "assets/audio/yunus-fish_ar.mp3"
+    },
+    {
+      "id": "isa-birth",
+      "title_en": "The Birth of Prophet Isa",
+      "title_ar": "مولد النبي عيسى",
+      "subtitle_en": "The Miracle of Maryam",
+      "subtitle_ar": "معجزة مريم",
+      "summary_en": "Allah gave Maryam a miraculous son, Prophet Isa, who spoke as a baby and later called people to worship Allah.",
+      "summary_ar": "رزق الله مريم ابناً معجزة هو النبي عيسى، تكلم وهو رضيع ثم دعا الناس لعبادة الله.",
+      "moral_en": "Allah can do anything, and we should trust His wisdom.",
+      "moral_ar": "الله قادر على كل شيء، وعلينا أن نثق بحكمته.",
+      "quiz_tf_en": "Prophet Isa spoke from the cradle by Allah’s permission.",
+      "quiz_tf_ar": "تكلم النبي عيسى في المهد بإذن الله.",
+      "quiz_short_en": "Who was the mother of Prophet Isa?",
+      "quiz_short_ar": "من أم النبي عيسى؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 80,
+      "source_page_end": 85,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/14-isa-birth.jpg",
+        "assets/images/story-courtyard.svg",
+        "assets/images/garden.svg"
+      ],
+      "audio_en": "assets/audio/isa-birth_en.mp3",
+      "audio_ar": "assets/audio/isa-birth_ar.mp3"
+    },
+    {
+      "id": "people-cave",
+      "title_en": "The Story of the People of the Cave",
+      "title_ar": "قصة أصحاب الكهف",
+      "subtitle_en": "The Sleepers of the Cave",
+      "subtitle_ar": "النائمون في الكهف",
+      "summary_en": "Young believers hid in a cave to protect their faith, and Allah kept them safe in a long sleep.",
+      "summary_ar": "اختبأ فتية مؤمنون في كهف لحماية إيمانهم، فحفظهم الله في نوم طويل.",
+      "moral_en": "Allah protects those who hold firmly to faith.",
+      "moral_ar": "يحفظ الله من يثبت على الإيمان.",
+      "quiz_tf_en": "Allah caused the young men to sleep safely in the cave for many years.",
+      "quiz_tf_ar": "أنام الله الفتية بأمان في الكهف سنوات كثيرة.",
+      "quiz_short_en": "Why did the young men go to the cave?",
+      "quiz_short_ar": "لماذا ذهب الفتية إلى الكهف؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 86,
+      "source_page_end": 90,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/15-people-cave.jpg",
+        "assets/images/garden.svg",
+        "assets/images/story-night-garden.png"
+      ],
+      "audio_en": "assets/audio/people-cave_en.mp3",
+      "audio_ar": "assets/audio/people-cave_ar.mp3"
+    },
+    {
+      "id": "luqman-wisdom",
+      "title_en": "The Wisdom of Luqman",
+      "title_ar": "حكمة لقمان",
+      "subtitle_en": "Lessons from a Wise Man",
+      "subtitle_ar": "دروس من رجل حكيم",
+      "summary_en": "Luqman advised his son to worship Allah, honor parents, be patient, avoid arrogance, and speak kindly.",
+      "summary_ar": "نصح لقمان ابنه بعبادة الله وبر الوالدين والصبر وترك الكبر والكلام بلطف.",
+      "moral_en": "Wisdom shows in worship, kindness, patience, and gentle words.",
+      "moral_ar": "تظهر الحكمة في العبادة واللطف والصبر والكلام الطيب.",
+      "quiz_tf_en": "Luqman taught his son to be kind to his parents.",
+      "quiz_tf_ar": "علّم لقمان ابنه أن يحسن إلى والديه.",
+      "quiz_short_en": "Name one advice Luqman gave his son.",
+      "quiz_short_ar": "اذكر نصيحة واحدة قالها لقمان لابنه.",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 91,
+      "source_page_end": 96,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/16-luqman-wisdom.jpg",
+        "assets/images/story-night-garden.png",
+        "assets/images/story-boat.svg"
+      ],
+      "audio_en": "assets/audio/luqman-wisdom_en.mp3",
+      "audio_ar": "assets/audio/luqman-wisdom_ar.mp3"
+    },
+    {
+      "id": "talut-jalut",
+      "title_en": "The Story of Talut and Jalut",
+      "title_ar": "قصة طالوت وجالوت",
+      "subtitle_en": "The Battle for Faith",
+      "subtitle_ar": "معركة الإيمان",
+      "summary_en": "Talut led the believers, and young Dawud defeated Jalut with courage and trust in Allah.",
+      "summary_ar": "قاد طالوت المؤمنين، وهزم داود الشاب جالوت بشجاعة وتوكل على الله.",
+      "moral_en": "With faith, even a small person can face a big challenge.",
+      "moral_ar": "بالإيمان يستطيع الصغير مواجهة التحدي الكبير.",
+      "quiz_tf_en": "Dawud defeated Jalut with Allah’s help.",
+      "quiz_tf_ar": "هزم داود جالوت بعون الله.",
+      "quiz_short_en": "What helped Dawud be brave?",
+      "quiz_short_ar": "ما الذي أعان داود على الشجاعة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 97,
+      "source_page_end": 101,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/17-talut-jalut.jpg",
+        "assets/images/story-boat.svg",
+        "assets/images/story-rainbow.svg"
+      ],
+      "audio_en": "assets/audio/talut-jalut_en.mp3",
+      "audio_ar": "assets/audio/talut-jalut_ar.mp3"
+    },
+    {
+      "id": "shuayb-fair-trading",
+      "title_en": "The Story of Prophet Shu’ayb",
+      "title_ar": "قصة النبي شعيب",
+      "subtitle_en": "Lessons in Fair Trading",
+      "subtitle_ar": "دروس في البيع العادل",
+      "summary_en": "Prophet Shu’ayb told his people to stop cheating in trade and to follow Allah honestly.",
+      "summary_ar": "أمر النبي شعيب قومه أن يتركوا الغش في البيع وأن يتبعوا الله بصدق.",
+      "moral_en": "Be honest in every deal, promise, and measure.",
+      "moral_ar": "كن صادقاً في كل بيع ووعد وميزان.",
+      "quiz_tf_en": "Prophet Shu’ayb warned his people against dishonest trading.",
+      "quiz_tf_ar": "حذر النبي شعيب قومه من الغش في التجارة.",
+      "quiz_short_en": "Why should we be fair when buying or selling?",
+      "quiz_short_ar": "لماذا يجب أن نعدل عند البيع أو الشراء؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 102,
+      "source_page_end": 107,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/18-shuayb-fair-trading.jpg",
+        "assets/images/story-rainbow.svg",
+        "assets/images/story-courtyard.svg"
+      ],
+      "audio_en": "assets/audio/shuayb-fair-trading_en.mp3",
+      "audio_ar": "assets/audio/shuayb-fair-trading_ar.mp3"
+    },
+    {
+      "id": "saleh-camel",
+      "title_en": "Prophet Saleh and the She-Camel",
+      "title_ar": "النبي صالح والناقة",
+      "subtitle_en": "Signs for Thamud",
+      "subtitle_ar": "آية لقوم ثمود",
+      "summary_en": "Allah gave Thamud a clear sign through the she-camel, but many rejected the sign and disobeyed.",
+      "summary_ar": "أعطى الله ثمود آية واضحة بالناقة، لكن كثيرين رفضوا الآية وعصوا.",
+      "moral_en": "Respect Allah’s signs and follow guidance with humility.",
+      "moral_ar": "احترم آيات الله واتبع الهداية بتواضع.",
+      "quiz_tf_en": "The she-camel was a sign from Allah for Thamud.",
+      "quiz_tf_ar": "كانت الناقة آية من الله لقوم ثمود.",
+      "quiz_short_en": "What should we do when Allah sends guidance?",
+      "quiz_short_ar": "ماذا نفعل عندما يرسل الله الهداية؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 108,
+      "source_page_end": 112,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/19-saleh-camel.jpg",
+        "assets/images/story-courtyard.svg",
+        "assets/images/garden.svg"
+      ],
+      "audio_en": "assets/audio/saleh-camel_en.mp3",
+      "audio_ar": "assets/audio/saleh-camel_ar.mp3"
+    },
+    {
+      "id": "hud-ad",
+      "title_en": "The Story of Prophet Hud",
+      "title_ar": "قصة النبي هود",
+      "subtitle_en": "Lessons from the People of Ad",
+      "subtitle_ar": "دروس من قوم عاد",
+      "summary_en": "Prophet Hud reminded a strong and proud people that real power belongs to Allah alone.",
+      "summary_ar": "ذكّر النبي هود قوماً أقوياء ومتكبرين أن القوة الحقيقية لله وحده.",
+      "moral_en": "Stay humble, because strength and success are gifts from Allah.",
+      "moral_ar": "كن متواضعاً، فالقوة والنجاح من نعم الله.",
+      "quiz_tf_en": "The people of Ad were proud of their strength and buildings.",
+      "quiz_tf_ar": "افتخر قوم عاد بقوتهم وبنيانهم.",
+      "quiz_short_en": "Why is humility important?",
+      "quiz_short_ar": "لماذا التواضع مهم؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 113,
+      "source_page_end": 117,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/20-hud-ad.jpg",
+        "assets/images/garden.svg",
+        "assets/images/story-night-garden.png"
+      ],
+      "audio_en": "assets/audio/hud-ad_en.mp3",
+      "audio_ar": "assets/audio/hud-ad_ar.mp3"
+    },
+    {
+      "id": "ibrahim-fire",
+      "title_en": "Prophet Ibrahim and the Fire",
+      "title_ar": "النبي إبراهيم والنار",
+      "subtitle_en": "The Miracle of Safety",
+      "subtitle_ar": "معجزة السلامة",
+      "summary_en": "When Prophet Ibrahim was thrown into the fire, Allah made it cool and safe for him.",
+      "summary_ar": "عندما ألقي النبي إبراهيم في النار جعلها الله برداً وسلاماً عليه.",
+      "moral_en": "Allah can protect His servants in ways no one expects.",
+      "moral_ar": "يحفظ الله عباده بطرق لا يتوقعها أحد.",
+      "quiz_tf_en": "Allah made the fire cool and safe for Prophet Ibrahim.",
+      "quiz_tf_ar": "جعل الله النار برداً وسلاماً على النبي إبراهيم.",
+      "quiz_short_en": "Who protected Prophet Ibrahim from the fire?",
+      "quiz_short_ar": "من حفظ النبي إبراهيم من النار؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 118,
+      "source_page_end": 122,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/21-ibrahim-fire.jpg",
+        "assets/images/story-night-garden.png",
+        "assets/images/story-boat.svg"
+      ],
+      "audio_en": "assets/audio/ibrahim-fire_en.mp3",
+      "audio_ar": "assets/audio/ibrahim-fire_ar.mp3"
+    },
+    {
+      "id": "isra-miraj",
+      "title_en": "The Night Journey of Prophet Muhammad",
+      "title_ar": "الإسراء والمعراج",
+      "subtitle_en": "A Heavenly Journey",
+      "subtitle_ar": "رحلة سماوية",
+      "summary_en": "Allah honored Prophet Muhammad with the Night Journey and taught the importance of prayer.",
+      "summary_ar": "أكرم الله النبي محمد برحلة الإسراء والمعراج وبيّن أهمية الصلاة.",
+      "moral_en": "Prayer is a special connection between us and Allah.",
+      "moral_ar": "الصلاة صلة خاصة بيننا وبين الله.",
+      "quiz_tf_en": "Prayer was made very important during the Night Journey.",
+      "quiz_tf_ar": "بيّنت رحلة الإسراء والمعراج أهمية الصلاة.",
+      "quiz_short_en": "What daily worship connects us with Allah?",
+      "quiz_short_ar": "ما العبادة اليومية التي تصلنا بالله؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 123,
+      "source_page_end": 127,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/22-isra-miraj.jpg",
+        "assets/images/story-boat.svg",
+        "assets/images/story-rainbow.svg"
+      ],
+      "audio_en": "assets/audio/isra-miraj_en.mp3",
+      "audio_ar": "assets/audio/isra-miraj_ar.mp3"
+    },
+    {
+      "id": "muhammad-childhood",
+      "title_en": "Prophet Muhammad’s Childhood",
+      "title_ar": "طفولة النبي محمد",
+      "subtitle_en": "Early Years of the Last Prophet",
+      "subtitle_ar": "سنوات النبي الأخيرة المبكرة",
+      "summary_en": "Young Muhammad was known for honesty, kindness, and wise character even before prophethood.",
+      "summary_ar": "عرف محمد الصغير بالصدق واللطف والحكمة حتى قبل النبوة.",
+      "moral_en": "Good character can shine from a young age.",
+      "moral_ar": "يمكن للخلق الحسن أن يضيء منذ الصغر.",
+      "quiz_tf_en": "People called young Muhammad Al-Amin, the trustworthy.",
+      "quiz_tf_ar": "لقب الناس محمداً الصغير بالأمين.",
+      "quiz_short_en": "What does Al-Amin mean?",
+      "quiz_short_ar": "ماذا يعني لقب الأمين؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 128,
+      "source_page_end": 132,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/23-muhammad-childhood.jpg",
+        "assets/images/story-rainbow.svg",
+        "assets/images/story-courtyard.svg"
+      ],
+      "audio_en": "assets/audio/muhammad-childhood_en.mp3",
+      "audio_ar": "assets/audio/muhammad-childhood_ar.mp3"
+    },
+    {
+      "id": "abyssinia-migration",
+      "title_en": "The Migration to Abyssinia",
+      "title_ar": "الهجرة إلى الحبشة",
+      "subtitle_en": "Seeking Refuge",
+      "subtitle_ar": "طلب الأمان",
+      "summary_en": "Some early Muslims migrated to Abyssinia, where a just king protected them after hearing about Islam.",
+      "summary_ar": "هاجر بعض المسلمين الأوائل إلى الحبشة، فحماهم ملك عادل بعد أن سمع عن الإسلام.",
+      "moral_en": "Seek safety with dignity and stand firm in faith.",
+      "moral_ar": "اطلب الأمان بكرامة واثبت على الإيمان.",
+      "quiz_tf_en": "King Negus listened fairly to the Muslims.",
+      "quiz_tf_ar": "استمع النجاشي للمسلمين بعدل.",
+      "quiz_short_en": "Why did the Muslims migrate to Abyssinia?",
+      "quiz_short_ar": "لماذا هاجر المسلمون إلى الحبشة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 133,
+      "source_page_end": 137,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/24-abyssinia-migration.jpg",
+        "assets/images/story-courtyard.svg",
+        "assets/images/garden.svg"
+      ],
+      "audio_en": "assets/audio/abyssinia-migration_en.mp3",
+      "audio_ar": "assets/audio/abyssinia-migration_ar.mp3"
+    },
+    {
+      "id": "badr",
+      "title_en": "The Battle of Badr",
+      "title_ar": "غزوة بدر",
+      "subtitle_en": "The First Major Battle",
+      "subtitle_ar": "أول معركة كبرى",
+      "summary_en": "At Badr, the Muslims were few, but they trusted Allah and received His help.",
+      "summary_ar": "في بدر كان المسلمون قلة، لكنهم توكلوا على الله ونالوا نصره.",
+      "moral_en": "Trust Allah and do your best, even when a challenge feels large.",
+      "moral_ar": "توكل على الله وابذل جهدك حتى لو بدا التحدي كبيراً.",
+      "quiz_tf_en": "The Muslims were outnumbered at Badr.",
+      "quiz_tf_ar": "كان عدد المسلمين قليلاً في بدر.",
+      "quiz_short_en": "Who helped the Muslims at Badr?",
+      "quiz_short_ar": "من نصر المسلمين في بدر؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 138,
+      "source_page_end": 142,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/25-badr.jpg",
+        "assets/images/garden.svg",
+        "assets/images/story-night-garden.png"
+      ],
+      "audio_en": "assets/audio/badr_en.mp3",
+      "audio_ar": "assets/audio/badr_ar.mp3"
+    },
+    {
+      "id": "elephant",
+      "title_en": "The Story of the Elephant",
+      "title_ar": "قصة الفيل",
+      "subtitle_en": "The Year of the Elephant",
+      "subtitle_ar": "عام الفيل",
+      "summary_en": "Abraha came to harm the Kaaba, but Allah protected His sacred house with a miraculous sign.",
+      "summary_ar": "جاء أبرهة ليؤذي الكعبة، فحماها الله بآية عظيمة.",
+      "moral_en": "Allah is powerful and protects what He wills.",
+      "moral_ar": "الله قوي ويحفظ ما يشاء.",
+      "quiz_tf_en": "Allah protected the Kaaba from Abraha’s army.",
+      "quiz_tf_ar": "حفظ الله الكعبة من جيش أبرهة.",
+      "quiz_short_en": "What place did Allah protect in this story?",
+      "quiz_short_ar": "ما المكان الذي حفظه الله في هذه القصة؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 143,
+      "source_page_end": 146,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/26-elephant.jpg",
+        "assets/images/story-night-garden.png",
+        "assets/images/story-boat.svg"
+      ],
+      "audio_en": "assets/audio/elephant_en.mp3",
+      "audio_ar": "assets/audio/elephant_ar.mp3"
+    },
+    {
+      "id": "muhammad-generosity",
+      "title_en": "The Generosity of Prophet Muhammad",
+      "title_ar": "كرم النبي محمد",
+      "subtitle_en": "Stories of Compassion",
+      "subtitle_ar": "قصص من الرحمة",
+      "summary_en": "Prophet Muhammad shared what he had, helped the needy, listened to people, and comforted the sad.",
+      "summary_ar": "شارك النبي محمد ما لديه، وساعد المحتاجين، واستمع للناس، وواسى الحزين.",
+      "moral_en": "Generosity includes sharing things, time, love, and kind words.",
+      "moral_ar": "الكرم يشمل مشاركة الأشياء والوقت والمحبة والكلام الطيب.",
+      "quiz_tf_en": "Prophet Muhammad helped people generously.",
+      "quiz_tf_ar": "كان النبي محمد يساعد الناس بكرم.",
+      "quiz_short_en": "Name one way to be generous today.",
+      "quiz_short_ar": "اذكر طريقة واحدة لتكون كريماً اليوم.",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 147,
+      "source_page_end": 151,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/27-muhammad-generosity.jpg",
+        "assets/images/story-boat.svg",
+        "assets/images/story-rainbow.svg"
+      ],
+      "audio_en": "assets/audio/muhammad-generosity_en.mp3",
+      "audio_ar": "assets/audio/muhammad-generosity_ar.mp3"
+    },
+    {
+      "id": "muhammad-mercy",
+      "title_en": "The Mercy of Prophet Muhammad",
+      "title_ar": "رحمة النبي محمد",
+      "subtitle_en": "Stories of Forgiveness",
+      "subtitle_ar": "قصص من العفو",
+      "summary_en": "Prophet Muhammad showed mercy to people and animals and forgave even when he had power.",
+      "summary_ar": "أظهر النبي محمد الرحمة للناس والحيوانات وعفا حتى عندما كان قادراً.",
+      "moral_en": "Mercy and forgiveness make hearts gentle and communities peaceful.",
+      "moral_ar": "الرحمة والعفو يجعلان القلوب رقيقة والمجتمع آمناً.",
+      "quiz_tf_en": "Prophet Muhammad showed mercy and forgiveness.",
+      "quiz_tf_ar": "أظهر النبي محمد الرحمة والعفو.",
+      "quiz_short_en": "How can you show mercy to someone today?",
+      "quiz_short_ar": "كيف تظهر الرحمة لشخص اليوم؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 152,
+      "source_page_end": 156,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/28-muhammad-mercy.jpg",
+        "assets/images/story-rainbow.svg",
+        "assets/images/story-courtyard.svg"
+      ],
+      "audio_en": "assets/audio/muhammad-mercy_en.mp3",
+      "audio_ar": "assets/audio/muhammad-mercy_ar.mp3"
+    },
+    {
+      "id": "spiders-web",
+      "title_en": "The Story of the Spider’s Web",
+      "title_ar": "قصة خيط العنكبوت",
+      "subtitle_en": "Protection in the Cave",
+      "subtitle_ar": "الحماية في الغار",
+      "summary_en": "During the Hijrah, Prophet Muhammad and Abu Bakr hid in a cave, and Allah protected them in a simple, amazing way.",
+      "summary_ar": "أثناء الهجرة اختبأ النبي محمد وأبو بكر في غار، فحفظهما الله بطريقة بسيطة وعجيبة.",
+      "moral_en": "Allah’s protection can come through the smallest things.",
+      "moral_ar": "قد تأتي حماية الله بأصغر الأشياء.",
+      "quiz_tf_en": "The cave story happened during the Hijrah.",
+      "quiz_tf_ar": "حدثت قصة الغار أثناء الهجرة.",
+      "quiz_short_en": "What made the searchers think the cave was empty?",
+      "quiz_short_ar": "ما الذي جعل الباحثين يظنون أن الغار فارغ؟",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 157,
+      "source_page_end": 160,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/29-spiders-web.jpg",
+        "assets/images/story-courtyard.svg",
+        "assets/images/garden.svg"
+      ],
+      "audio_en": "assets/audio/spiders-web_en.mp3",
+      "audio_ar": "assets/audio/spiders-web_ar.mp3"
+    },
+    {
+      "id": "final-sermon",
+      "title_en": "The Final Sermon of Prophet Muhammad",
+      "title_ar": "خطبة النبي محمد الأخيرة",
+      "subtitle_en": "Lessons from the Last Address",
+      "subtitle_ar": "دروس من الخطبة الأخيرة",
+      "summary_en": "In the final sermon, Prophet Muhammad reminded people about equality, kindness, honesty, worship, and carrying the message onward.",
+      "summary_ar": "في الخطبة الأخيرة ذكّر النبي محمد الناس بالمساواة والرحمة والصدق والعبادة ونقل الرسالة.",
+      "moral_en": "All people deserve respect, and Muslims should live with honesty and kindness.",
+      "moral_ar": "كل الناس يستحقون الاحترام، وعلى المسلم أن يعيش بالصدق والرحمة.",
+      "quiz_tf_en": "The final sermon taught equality and brotherhood.",
+      "quiz_tf_ar": "علمت الخطبة الأخيرة المساواة والأخوة.",
+      "quiz_short_en": "Name one lesson from the final sermon.",
+      "quiz_short_ar": "اذكر درساً واحداً من الخطبة الأخيرة.",
+      "source": "Stories-of-childern-Final.pdf",
+      "source_page_start": 161,
+      "source_page_end": 165,
+      "video_path": "",
+      "video_url": "",
+      "images": [
+        "assets/images/pdf-stories/30-final-sermon.jpg",
+        "assets/images/garden.svg",
+        "assets/images/story-night-garden.png"
+      ],
+      "audio_en": "assets/audio/final-sermon_en.mp3",
+      "audio_ar": "assets/audio/final-sermon_ar.mp3"
+    }
+  ],
+  "duas": [
+    {
+      "id": "bismillah",
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": "Bismillah",
+      "translation_en": "In the name of Allah.",
+      "translation_ar": "باسم الله.",
+      "audio_path": "assets/audio/bismillah.mp3",
+      "category": "Eating"
+    },
+    {
+      "id": "before-sleep",
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "Bismika Allahumma amutu wa ahya",
+      "translation_en": "In Your name, O Allah, I sleep and wake.",
+      "translation_ar": "باسمك اللهم أموت وأحيا.",
+      "audio_path": "assets/audio/sleep.mp3",
+      "category": "Sleep"
+    },
+    {
+      "id": "rabbi-zidni",
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "transliteration": "Rabbi zidni ilma",
+      "translation_en": "My Lord, increase me in knowledge.",
+      "translation_ar": "رب زدني علماً.",
+      "audio_path": "assets/audio/knowledge.mp3",
+      "category": "Learning"
+    },
+    {
+      "id": "al-fatiha",
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "transliteration": "Alhamdu lillahi rabbil alamin",
+      "translation_en": "Praise be to Allah, Lord of all worlds.",
+      "translation_ar": "الحمد لله رب العالمين.",
+      "audio_path": "assets/audio/fatiha_sample.mp3",
+      "category": "Surah"
+    }
+  ],
+  "prayers": [
+    {
+      "id": "fajr",
+      "en": "Fajr",
+      "ar": "الفجر",
+      "time": "5:10"
+    },
+    {
+      "id": "dhuhr",
+      "en": "Dhuhr",
+      "ar": "الظهر",
+      "time": "12:58"
+    },
+    {
+      "id": "asr",
+      "en": "Asr",
+      "ar": "العصر",
+      "time": "4:42"
+    },
+    {
+      "id": "maghrib",
+      "en": "Maghrib",
+      "ar": "المغرب",
+      "time": "7:58"
+    },
+    {
+      "id": "isha",
+      "en": "Isha",
+      "ar": "العشاء",
+      "time": "9:22"
+    }
+  ],
+  "pillars": [
+    {
+      "id": "shahada",
+      "en": "Shahada",
+      "ar": "الشهادة",
+      "order": 1
+    },
+    {
+      "id": "salah",
+      "en": "Salah",
+      "ar": "الصلاة",
+      "order": 2
+    },
+    {
+      "id": "zakat",
+      "en": "Zakat",
+      "ar": "الزكاة",
+      "order": 3
+    },
+    {
+      "id": "sawm",
+      "en": "Sawm",
+      "ar": "الصوم",
+      "order": 4
+    },
+    {
+      "id": "hajj",
+      "en": "Hajj",
+      "ar": "الحج",
+      "order": 5
+    }
+  ],
+  "iman": [
+    {
+      "id": "allah",
+      "en": "Allah",
+      "ar": "الله"
+    },
+    {
+      "id": "angels",
+      "en": "Angels",
+      "ar": "الملائكة"
+    },
+    {
+      "id": "books",
+      "en": "Books",
+      "ar": "الكتب"
+    },
+    {
+      "id": "messengers",
+      "en": "Messengers",
+      "ar": "الرسل"
+    },
+    {
+      "id": "last-day",
+      "en": "Last Day",
+      "ar": "اليوم الآخر"
+    },
+    {
+      "id": "qadar",
+      "en": "Qadar",
+      "ar": "القدر"
+    }
+  ],
+  "manners": [
+    {
+      "id": "salam",
+      "en": "Say salam to your family.",
+      "ar": "قل السلام عليكم لأهلك."
+    },
+    {
+      "id": "share",
+      "en": "Share one toy or pencil kindly.",
+      "ar": "شارك لعبة أو قلماً بلطف."
+    },
+    {
+      "id": "thanks",
+      "en": "Say thank you three times today.",
+      "ar": "قل شكراً ثلاث مرات اليوم."
+    },
+    {
+      "id": "clean",
+      "en": "Put one thing back in its place.",
+      "ar": "أعد شيئاً واحداً إلى مكانه."
+    }
+  ],
+  "facts": [
+    {
+      "en": "The Hijri calendar follows the moon.",
+      "ar": "التقويم الهجري يتبع القمر."
+    },
+    {
+      "en": "Ramadan is the month of fasting and Quran.",
+      "ar": "رمضان شهر الصيام والقرآن."
+    },
+    {
+      "en": "Eid is a joyful day of thanks and kindness.",
+      "ar": "العيد يوم فرح وشكر وإحسان."
+    },
+    {
+      "en": "Good manners are part of learning Islam.",
+      "ar": "الأخلاق الحسنة جزء من تعلم الإسلام."
+    }
+  ],
+  "calendar_targets": [
+    {
+      "id": "ramadan",
+      "label_en": "Ramadan",
+      "label_ar": "رمضان",
+      "date": "2027-02-08"
+    },
+    {
+      "id": "eid",
+      "label_en": "Eid al-Fitr",
+      "label_ar": "عيد الفطر",
+      "date": "2027-03-09"
+    }
+  ]
+}

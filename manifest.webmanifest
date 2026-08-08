@@ -1,0 +1,19 @@
+{
+  "name": "My First Islamic Journey",
+  "short_name": "Islamic Journey",
+  "description": "A bilingual English and Arabic Islamic learning app for children.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef9fb",
+  "theme_color": "#2fa95b",
+  "icons": [
+    {
+      "src": "assets/images/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

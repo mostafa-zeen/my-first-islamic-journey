@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Zezo avatar">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dff8ff"/>
+      <stop offset="1" stop-color="#b9efe4"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8bdc58"/>
+      <stop offset="1" stop-color="#35aa55"/>
+    </linearGradient>
+  </defs>
+  <circle cx="110" cy="110" r="103" fill="url(#sky)"/>
+  <circle cx="110" cy="122" r="64" fill="url(#face)"/>
+  <path d="M58 125c-12 20-24 37-40 45 24 8 53-2 68-23Z" fill="#35aa55" opacity=".96"/>
+  <path d="M162 125c12 20 24 37 40 45-24 8-53-2-68-23Z" fill="#35aa55" opacity=".96"/>
+  <path d="M69 73c8-31 28-46 59-45 15 1 30 6 43 15-27 5-42 20-44 44Z" fill="#f5dc96"/>
+  <path d="M75 74c23 8 51 12 84 10" fill="none" stroke="#d6b76f" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="86" cy="113" r="11" fill="#0b3c4a"/>
+  <circle cx="134" cy="113" r="11" fill="#0b3c4a"/>
+  <circle cx="90" cy="109" r="3" fill="#fff"/>
+  <circle cx="138" cy="109" r="3" fill="#fff"/>
+  <path d="M100 130c9 7 19 7 29 0" fill="none" stroke="#0b3c4a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M104 121 89 136h42Z" fill="#ffd66b"/>
+  <path d="M85 174c13 8 37 11 56 0" fill="none" stroke="#f5dc96" stroke-width="15" stroke-linecap="round"/>
+  <path d="M61 91c-10-14-4-31 11-38M162 91c9-16 2-32-14-39" fill="none" stroke="#2fa95b" stroke-width="10" stroke-linecap="round"/>
+</svg>

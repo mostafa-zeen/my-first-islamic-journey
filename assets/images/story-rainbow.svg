@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Story illustration of a rainbow after rain">
+  <rect width="900" height="560" rx="36" fill="#e8fbff"/>
+  <path d="M101 414a349 349 0 0 1 698 0" fill="none" stroke="#f3726f" stroke-width="54" stroke-linecap="round"/>
+  <path d="M151 414a299 299 0 0 1 598 0" fill="none" stroke="#f5b82e" stroke-width="48" stroke-linecap="round"/>
+  <path d="M199 414a251 251 0 0 1 502 0" fill="none" stroke="#2fa95b" stroke-width="42" stroke-linecap="round"/>
+  <path d="M244 414a206 206 0 0 1 412 0" fill="none" stroke="#2387d9" stroke-width="36" stroke-linecap="round"/>
+  <path d="M0 397c88-30 179-30 273 0s180 30 265 0 177-30 269 0 93 30 93 30v133H0z" fill="#6cc6dd"/>
+  <path d="M92 426c55-78 164-78 219 0" fill="#ffffff"/>
+  <path d="M564 426c55-78 164-78 219 0" fill="#ffffff"/>
+  <path d="M0 452h900v108H0z" fill="#8bd471"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="My First Islamic Journey icon">
+  <rect width="512" height="512" rx="112" fill="#eef9fb"/>
+  <circle cx="256" cy="256" r="188" fill="#2fa95b"/>
+  <path d="M326 132c-43 17-74 58-74 107 0 66 54 120 120 120 14 0 28-3 40-7-29 44-78 73-135 73-89 0-161-72-161-161 0-66 40-123 97-148 35-15 76-10 113 16Z" fill="#ffd66b"/>
+  <path d="M169 318h174v37H169z" fill="#fff"/>
+  <path d="M197 219h118v118H197z" fill="#fff"/>
+  <path d="M176 219h160l-80-64-80 64Z" fill="#fff"/>
+  <path d="M234 337v-70a22 22 0 0 1 44 0v70h-44Z" fill="#2fa95b"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Story illustration of an ark on calm water">
+  <rect width="900" height="560" rx="36" fill="#dff6ff"/>
+  <circle cx="728" cy="104" r="54" fill="#ffd66b"/>
+  <path d="M0 400c88-37 178-37 270 0s182 37 270 0 178-37 270 0 90 37 90 37v123H0z" fill="#5bc7d5"/>
+  <path d="M166 354h566c-37 91-103 137-199 137H365c-96 0-162-46-199-137Z" fill="#9b6b37"/>
+  <path d="M266 242h360v112H266z" fill="#bd8545"/>
+  <path d="M306 164h280l40 78H266z" fill="#f4ba56"/>
+  <path d="M354 354v-78h184v78" fill="#704b2d"/>
+  <path d="M395 354v-38a51 51 0 0 1 102 0v38" fill="#3a2a1f"/>
+  <path d="M104 140c34-60 116-60 150 0" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round"/>
+  <path d="M625 170c24-43 82-43 106 0" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+</svg>
