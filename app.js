@@ -28,8 +28,10 @@
       audioHint: "Add MP3 files to assets/audio for recorded playback. Read aloud works now.",
       localVideoHint: "Stories imported from your PDF. Add MP4 files in assets/videos later for video playback.",
       sourcePages: "PDF pages",
-      zezoMoment: "Little Zezo!",
-      zezoMediaHint: "A personal photo and video from Zezo's journey.",
+      zezoMoment: "Little Zezo & Adam!",
+      zezoName: "Little Zezo",
+      adamName: "Cousin Adam",
+      zezoMediaHint: "Personal photos and video from Zezo and cousin Adam's journey.",
       openVideo: "Open video",
       storyActivity: "Story activity",
       trueFalsePrompt: "True or false",
@@ -105,8 +107,10 @@
       audioHint: "أضف ملفات MP3 إلى assets/audio للتشغيل المسجل. القراءة الصوتية تعمل الآن.",
       localVideoHint: "تم استيراد القصص من ملف PDF. أضف ملفات MP4 في assets/videos لاحقاً لتشغيل الفيديو.",
       sourcePages: "صفحات PDF",
-      zezoMoment: "Little Zezo!",
-      zezoMediaHint: "صورة وفيديو خاصان من رحلة زيزو.",
+      zezoMoment: "زيزو وآدم!",
+      zezoName: "زيزو الصغير",
+      adamName: "آدم ابن العم",
+      zezoMediaHint: "صور وفيديو من رحلة زيزو وآدم ابن العم.",
       openVideo: "افتح الفيديو",
       storyActivity: "نشاط القصة",
       trueFalsePrompt: "صح أم خطأ",
@@ -493,7 +497,10 @@
     return `
       <header class="topbar">
         <div class="profile">
-          <div class="avatar" aria-hidden="true"><img src="assets/images/little-zezo-avatar.jpg" alt="" /></div>
+          <div class="avatar-stack" aria-hidden="true">
+            <div class="avatar"><img src="assets/images/little-zezo-avatar.jpg" alt="" /></div>
+            <div class="avatar"><img src="assets/images/adam-cousin-avatar.jpg" alt="" /></div>
+          </div>
           <div>
             <h1>${tr("greeting")}</h1>
             <p>${tr("salam")} ${escapeHtml(state.childName)}</p>
@@ -547,8 +554,15 @@
         </div>
         <div class="home-side content">
           <article class="panel zezo-media-card">
-            <div class="zezo-photo-frame">
-              <img src="assets/images/little-zezo-photo.jpg" alt="Little Zezo" />
+            <div class="family-photo-grid">
+              <figure class="zezo-photo-frame">
+                <img src="assets/images/little-zezo-photo.jpg" alt="${tr("zezoName")}" />
+                <figcaption>${tr("zezoName")}</figcaption>
+              </figure>
+              <figure class="zezo-photo-frame">
+                <img src="assets/images/adam-cousin-photo.jpg" alt="${tr("adamName")}" />
+                <figcaption>${tr("adamName")}</figcaption>
+              </figure>
             </div>
             <div class="media-controls">
               <p class="tag">${tr("zezoMoment")}</p>
@@ -1099,6 +1113,10 @@
       "./styles.css",
       "./app.js",
       "./assets/data/content.json",
+      "./assets/images/little-zezo-avatar.jpg",
+      "./assets/images/little-zezo-photo.jpg",
+      "./assets/images/adam-cousin-avatar.jpg",
+      "./assets/images/adam-cousin-photo.jpg",
       "./assets/images/story-night-garden.png",
       "./assets/images/story-boat.svg",
       "./assets/images/story-rainbow.svg",

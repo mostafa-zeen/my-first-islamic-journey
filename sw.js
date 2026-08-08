@@ -1,4 +1,4 @@
-const CACHE_NAME = "my-first-islamic-journey-v5";
+const CACHE_NAME = "my-first-islamic-journey-v6";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -10,6 +10,8 @@ const CORE_ASSETS = [
   "./assets/images/zezo-avatar.svg",
   "./assets/images/little-zezo-avatar.jpg",
   "./assets/images/little-zezo-photo.jpg",
+  "./assets/images/adam-cousin-avatar.jpg",
+  "./assets/images/adam-cousin-photo.jpg",
   "./assets/images/story-night-garden.png",
   "./assets/images/story-boat.svg",
   "./assets/images/story-rainbow.svg",
