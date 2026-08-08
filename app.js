@@ -186,6 +186,7 @@
   };
 
   let content = fallbackContent;
+  let parentPin = "1234";
   let state = loadState();
   let draggedPillar = null;
 
@@ -193,6 +194,7 @@
 
   async function init() {
     content = await loadContent();
+    parentPin = await loadParentPin();
     ensureToday();
     await registerServiceWorker();
     bindEvents();
@@ -207,6 +209,20 @@
     } catch {
       return fallbackContent;
     }
+  }
+
+  async function loadParentPin() {
+    try {
+      const response = await fetch("assets/data/private-config.json", { cache: "no-store" });
+      if (!response.ok) throw new Error("private config not found");
+      const config = await response.json();
+      if (typeof config.parentPin === "string" && /^\d{4}$/.test(config.parentPin)) {
+        return config.parentPin;
+      }
+    } catch {
+      // Public GitHub Pages build falls back to the demo PIN.
+    }
+    return "1234";
   }
 
   function defaultState() {
@@ -425,7 +441,7 @@
       state.pinInput += key;
     }
     if (state.pinInput.length === 4) {
-      if (state.pinInput === "1234") {
+      if (state.pinInput === parentPin) {
         state.parentUnlocked = true;
         state.pinInput = "";
         state.pinError = "";

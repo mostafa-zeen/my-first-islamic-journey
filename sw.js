@@ -1,4 +1,4 @@
-const CACHE_NAME = "my-first-islamic-journey-v6";
+const CACHE_NAME = "my-first-islamic-journey-v8";
 const CORE_ASSETS = [
   "./",
   "./index.html",
