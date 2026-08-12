@@ -1592,11 +1592,6 @@ body::after {
   background: rgba(255,255,255,.9);
 }
 
-.family-photo-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;
-}
 
 .zezo-photo-frame {
   position: relative;
@@ -1623,23 +1618,6 @@ body::after {
   object-fit: cover;
 }
 
-.zezo-photo-frame figcaption {
-  position: absolute;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
-  z-index: 1;
-  width: fit-content;
-  max-width: calc(100% - 20px);
-  padding: 6px 10px;
-  border-radius: 999px;
-  color: #0d3f37;
-  font-size: .78rem;
-  font-weight: 800;
-  line-height: 1.1;
-  background: rgba(255, 255, 255, .86);
-  box-shadow: 0 6px 16px rgba(11, 60, 74, .14);
-}
 
 .zezo-video {
   width: 100%;
@@ -1664,22 +1642,8 @@ body::after {
   border-radius: inherit;
 }
 
-.avatar-stack {
-  display: flex;
-  align-items: center;
-  min-width: 120px;
-}
 
-.avatar-stack .avatar {
-  width: 72px;
-  height: 72px;
-  border: 4px solid #fff;
-  box-shadow: 0 10px 24px rgba(14, 77, 65, .16);
-}
 
-.avatar-stack .avatar + .avatar {
-  margin-inline-start: -22px;
-}
 
 @media (max-width: 1040px) {
   .home-side {
@@ -1696,12 +1660,4 @@ body::after {
     max-height: 220px;
   }
 
-  .avatar-stack {
-    min-width: 104px;
-  }
-
-  .avatar-stack .avatar {
-    width: 62px;
-    height: 62px;
-  }
 }
